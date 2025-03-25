@@ -63,7 +63,7 @@ export default function Home() {
             <div className="md:w-1/3 flex justify-center">
               <div className="relative w-64 h-64 rounded-full overflow-hidden border-4 border-[#9c5de3]">
                 <Image
-                  src="/placeholder.svg?height=256&width=256"
+                  src="/placeholder.jpg?height=256&width=256"
                   alt="Faustino Beatrice"
                   fill
                   className="object-cover"
